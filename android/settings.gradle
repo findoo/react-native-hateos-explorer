@@ -1,0 +1,3 @@
+rootProject.name = 'RnHateosExplorer'
+
+include ':app'
